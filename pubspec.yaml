@@ -1,0 +1,25 @@
+name: robot_app
+description: A Flutter app to Robot service helper.
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.19.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  http: ^1.2.2
+  yandex_mapkit: ^4.1.0
+  flutter_client_sse: ^2.0.2
+  provider: ^6.0.0
+  flutter_webview_plugin: ^0.4.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/images/rover_image.png
