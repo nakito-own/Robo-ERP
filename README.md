@@ -1,4 +1,4 @@
-# RSH - Robo Service Helper
+# Robo ERP - Robot Service Helper
 
 Mini ERP application for Location Support.
 
